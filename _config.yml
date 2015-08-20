@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Home
 tagline:             David McGillicuddy
-url:                 http:djmcgill.co.uk
+url:                 www.djmcgill.co.uk
 paginate:            1
 baseurl:             ""
 
