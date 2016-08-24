@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Welcome
 ---
 
@@ -15,8 +15,6 @@ This is me:
 [This is a paper that I wrote](/assets/patat.pdf)
 
 [This is my github](https://github.com/djmcgill)
-
-[This is the game that I'm working on](https://github.com/djmcgill/CPU)
 
 [This is my email](mailto:contact@djmcgill.co.uk)
 
