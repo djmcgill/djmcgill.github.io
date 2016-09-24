@@ -4,7 +4,8 @@ permalink:           pretty
 # Setup
 title:               Home
 tagline:             David McGillicuddy
-url:                 djmcgill.co.uk
+url:                 https://djmcgill.co.uk
+enforce_ssl:         djmcgill.co.uk
 paginate:            1
 baseurl:             ""
 
